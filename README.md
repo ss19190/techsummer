@@ -1,1 +1,1 @@
-# techsummer
+# Implementation of Dijkstra's algorithm in Java
